@@ -22,6 +22,8 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 ### Getting Started
 
+In the repository you can find already the Windows (64-bit) version, if you would like to download your own, please feel free to use the links below and replace with the existing folder in the repository: "Banana_Windows_x86_64".
+
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
     - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
